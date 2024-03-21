@@ -12,6 +12,6 @@
 
 // const greet = (name, owner) => (name === owner ? "Hello boss" : "Hello guest");
 
-const greet = (name, owner) => `Hello ${name === owner ? "boss" : "guest"}`;
+const greet = (name, owner) => `Hello ${name === owner ? "boss" : "guest"}`; //string literal
 
 console.log(greet("Daniel", "Daniel"));
