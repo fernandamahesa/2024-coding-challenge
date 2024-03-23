@@ -1,5 +1,5 @@
 //WPU Coding Challenge 2024
-//19/366
+//21/366
 // https://www.codewars.com/kata/568d0dd208ee69389d000016
 
 // function rentalCarCost(d) {

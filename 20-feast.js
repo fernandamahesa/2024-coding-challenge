@@ -1,5 +1,5 @@
 //WPU Coding Challenge 2024
-//19/366
+//20/366
 // https://www.codewars.com/kata/5aa736a455f906981800360d
 
 // function feast(beast, dish) {
